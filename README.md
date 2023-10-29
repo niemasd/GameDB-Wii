@@ -1,0 +1,2 @@
+# GameDB-Wii
+Nintendo Wii
