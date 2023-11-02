@@ -8,4 +8,5 @@ Nintendo Wii, part of [GameDB](https://github.com/niemasd/GameDB).
 * **[`Wii.titles.json`](https://github.com/niemasd/GameDB-Wii/releases/latest/download/Wii.titles.json):** Mapping of serial numbers to game titles, structured in the JSON format
 
 # Sources
+* [MiSTer Addons](https://misteraddons.com/)
 * [Redump](http://redump.org)
